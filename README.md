@@ -38,7 +38,7 @@ N/A
 ## Usage
 
 This is a website where you can review the contents that Horiseon has to offer.
-![Horiseon](./assets/01-html-css-git-homework-demo.png)
+![Horiseon](./Assets/01-html-css-git-homework-demo.png)
 
 ## Credits
 
